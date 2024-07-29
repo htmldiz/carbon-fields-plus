@@ -1,5 +1,5 @@
 # Carbon Fields Plus
-## It's a copy of Carbon Fields but with soma changes for latest needs.
+## It's a copy of Carbon Fields but with some changes for latest needs.
 
 ## Carbon Fields [![Build Status](https://travis-ci.org/htmlburger/carbon-fields.svg?branch=master)](https://travis-ci.org/htmlburger/carbon-fields) [![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/htmlburger/carbon-fields/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/htmlburger/carbon-fields/?branch=master) [![Code Coverage](https://scrutinizer-ci.com/g/htmlburger/carbon-fields/badges/coverage.png?b=master)](https://scrutinizer-ci.com/g/htmlburger/carbon-fields/?branch=master) [![Gitter chat](https://badges.gitter.im/carbon-fields/Lobby.png)](https://gitter.im/carbon-fields/Lobby)
 
